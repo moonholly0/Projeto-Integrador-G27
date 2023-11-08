@@ -1,7 +1,7 @@
 # Projeto-Integrador-G27
 Projeto Integrador Sistema Orientado a Objetos
 Sistema de Cadadastro e Consulta de Pessoas de uma Universidade
-
+![Diagrama 1° Entrega](https://github.com/moonholly0/Projeto-Integrador-G27/assets/77432143/c77657fc-1d4c-4b35-944c-dcfa28d42a7d)
 ![Acesso ao sistema de cadastros e Consultas](https://github.com/moonholly0/Projeto-Integrador-G27/assets/77432143/e47651aa-7e5e-4ac6-989d-336319e5d3b2)
 ![Menu](https://github.com/moonholly0/Projeto-Integrador-G27/assets/77432143/895ba6fd-393f-4756-9a90-01b05cc4ab20)
 ![Aba de Cadastros](https://github.com/moonholly0/Projeto-Integrador-G27/assets/77432143/3fb8971a-ce98-4c38-b3b6-f447c3568d1a)
